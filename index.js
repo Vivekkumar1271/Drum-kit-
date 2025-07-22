@@ -8,7 +8,7 @@ for (var i=0;i<document.querySelectorAll(".drum").length;i++){
  
 // this.style.color="white";
  });
-   // var chnge= this.style.backgroundColor= "r
+ 
 
 }
  
